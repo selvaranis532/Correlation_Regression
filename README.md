@@ -1,7 +1,7 @@
 # Correlation and regression for data analysis
 
 ## NAME : SELVARANI S
-REGISTER NO : 212224040301
+## REGISTER NO : 212224040301
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
